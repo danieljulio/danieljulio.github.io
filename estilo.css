@@ -1,0 +1,37 @@
+body{font-family: 'Roboto', sans-serif;
+    background-color: #2f2f2f;
+    color: #c6c4c4;
+}
+
+a {text-decoration: none;
+   color: #ffcc22;}
+
+.corpo{margin: 1% 1%;
+    width: 100%;}
+
+h1, h2, h3{font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #d2e2f0;
+    margin-top: 3px;
+    margin-bottom: 5px;}
+
+header, footer, .redes-sociais, .tecnologias{text-align: center;}
+
+.mail{width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-left: 21px;
+    background-image: url(email.png);
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+.telefone{width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-left: 21px;
+    background-image: url(telefone.png);
+    text-align: left;
+    
+}
